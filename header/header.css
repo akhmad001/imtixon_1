@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Raleway:wght@700&display=swap');
+header{
+    width: 1600px;
+    margin: 0 auto;
+}
+
+.hover{
+    width: 1149px;
+    height: 60px;
+    transform: translate(0, 80px);
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hover_link{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.473);
+    transition: 1.5s;
+    border-bottom: 1px solid white;
+}
+
+.hover_link:hover{
+    padding: 20px 0;
+    color: black;
+    border-bottom: 5px solid #F59B00;
+}
+
+.popka{
+    width: 1149px;
+    margin: 0 auto;
+    margin-top: 170px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.popka_1{
+    width: 1402px;
+    height: 646px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 120px;
+}
+
+.popka_2{
+    width: 830px;
+    height: 646px;
+}
+
+.popka_3{
+    width: 460px;
+    height: 355px;
+}
+
+.popka_textp{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    color: #F59B00;
+    font-family: 'Poppins';
+}
+
+.popka_text{
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 31px;
+    font-style: normal;
+    color: #2F2F2F;
+    padding: 20px 0;
+}
+
+.popka_textpp{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+}
+
+.btm{
+    transform: translate(0, 20px);
+    background: #F59B00;
+    border-radius: 5px;
+    padding: 15px 30px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 120%;
+    color: #fff;
+    border: none;
+}
+
+.popkalar{
+    Width: 1146px;
+    Height: 1005px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.popkalar_text{
+    font-style: 30px;
+}
+
+.popkalar_textp{
+    font-size: 16px;
+    padding: 20px 0;
+}
+
+.p{
+    width: 264px;
+    height: 273px;
+    background-color: #FDEEF1;
+    border-radius: 2px;
+}
+
+.p1{
+    width: 264px;
+    height: 273px;
+    background-color: #FDEEF1;
+    border-radius: 2px;
+}
+
+.p2{
+    width: 264px;
+    height: 273px;
+    background-color: #F9DCFF;
+    border-radius: 2px;
+}
+
+.p3{
+    width: 264px;
+    height: 273px;
+    background-color: #FFDEE7;
+    border-radius: 2px;
+}
+.p4{
+    width: 264px;
+    height: 273px;
+    background: #ECF1FF;
+    border-radius: 2px;
+}
+.p5{
+    width: 264px;
+    height: 273px;
+    background: #FADADE;
+    border-radius: 2px;
+}
+.p6{
+    width: 264px;
+    height: 273px;
+    background: #D9E6FE;
+    border-radius: 2px;
+}
+.p7{
+    width: 264px;
+    height: 273px;
+    background: #EBF4BF;
+    border-radius: 2px;
+}
+.popkalar_1{
+    Width: 1146px;
+    Height: 350px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.harf{
+    width: 170px;
+    height: 48px;
+    margin: 0 auto;
+    margin-top: 98px;
+    display: flex;
+    align-items: center;
+    border: 2px solid #F59B00;
+    order: 1;
+}
+
+.h_img{
+    width: 26px;
+    height: 13px;
+    margin-left: 15px;
+}
+
+.h_link{
+    color: #2F2F2F;
+    margin-left: 30px;
+    text-decoration: none;
+}
